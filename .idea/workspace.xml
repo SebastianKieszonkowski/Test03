@@ -4,11 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8537f98f-722e-4ff5-b8f2-c480b7f30d23" name="Changes" comment="" />
+    <list default="true" id="8537f98f-722e-4ff5-b8f2-c480b7f30d23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task1/JavaFileAndSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task1/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task1/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task2/FilesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task2/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task3/FibonacciRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task3/FibonacciServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task4/MinMaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task4/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task4/models/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task4/models/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kurs/task1/JavaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task1/JavaClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JsGI8YVgs7y4bRZC8TDFPrEC97" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,9 +45,77 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Ania/IdeaProjects/Recursion"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.kurs.task1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FilesRunner">
+    <configuration name="FibonacciRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.task3.FibonacciRunner" />
+      <module name="Test03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilesRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.task2.FilesRunner" />
+      <module name="Test03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.task1.Runner" />
+      <module name="Test03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.kurs.task4.RunnerClass" />
+      <module name="Test03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kurs.task4.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FilesRunner" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.FibonacciRunner" />
+        <item itemvalue="Application.RunnerClass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
