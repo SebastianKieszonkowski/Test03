@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8537f98f-722e-4ff5-b8f2-c480b7f30d23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task1/JavaFileAndSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task1/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task1/Services.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task2/FilesRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task2/Services.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task3/FibonacciRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task3/FibonacciServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task4/MinMaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task4/RunnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task4/models/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task4/models/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kurs/task1/JavaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/kurs/task1/JavaClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
