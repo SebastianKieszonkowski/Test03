@@ -1,7 +1,5 @@
 package pl.kurs.task2;
 
-import pl.kurs.task1.JavaFileAndSize;
-
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,4 +1,6 @@
 package pl.kurs.task1;
+import pl.kurs.task1.model.JavaFileAndSize;
+
 import java.io.File;
 
 import java.util.ArrayList;

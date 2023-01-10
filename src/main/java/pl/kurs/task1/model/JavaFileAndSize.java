@@ -1,4 +1,4 @@
-package pl.kurs.task1;
+package pl.kurs.task1.model;
 
 import java.io.File;
 
