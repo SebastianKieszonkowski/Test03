@@ -1,13 +1,13 @@
 package pl.kurs.task4.models;
 
 public class Person implements Comparable<Person>{
-    private String name;
-    private String surname;
+    private String firstName;
+    private String secondName;
     private int age;
 
-    public Person(String name, String surname, int age) {
-        this.name = name;
-        this.surname = surname;
+    public Person(String firstName, String secondName, int age) {
+        this.firstName = firstName;
+        this.secondName = secondName;
         this.age = age;
     }
 
@@ -15,17 +15,17 @@ public class Person implements Comparable<Person>{
     public int compareTo(Person o) {
         int result = Integer.compare(age, o.age);
         if(result == 0)
-            result = o.surname.compareTo(surname);
+            result = secondName.compareTo(o.secondName);
         if(result == 0)
-            result = o.name.compareTo(name);
+            result = o.firstName.compareTo(firstName);
         return result;
     }
 
     @Override
     public String toString() {
         return "Person{" +
-                "name='" + name + '\'' +
-                ", surname='" + surname + '\'' +
+                "name='" + firstName + '\'' +
+                ", surname='" + secondName + '\'' +
                 ", age=" + age +
                 '}';
     }

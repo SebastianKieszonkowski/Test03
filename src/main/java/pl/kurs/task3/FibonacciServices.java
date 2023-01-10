@@ -25,8 +25,4 @@ public class FibonacciServices {
         }
         return -1;
     }
-    public static int getFibonacciIndex2(int number) {
-
-        return 0;
-    }
 }
